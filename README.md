@@ -5,7 +5,7 @@ SAASiFy is a sample SAAS app built with NodeJS and ReactJS. It is primarily buil
 The commits are ordered in the same order as the videos in the course.
 
 
-## Getting Started
+## Getting Started: 
 
 1. Fork or clone the repository
 2. You will get 2 folders -> `client` and `server`.
